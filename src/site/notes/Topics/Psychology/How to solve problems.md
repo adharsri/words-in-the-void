@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/topics/psychology/how-to-solve-problems/"}
 ---
 
-[[Psychology\|Psychology]]
+[[Topics/Musings/Psychology\|Psychology]]
 
 ---
 
