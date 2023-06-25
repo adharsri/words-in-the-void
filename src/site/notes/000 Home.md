@@ -14,7 +14,7 @@
 - 130 - [[130 Questions\|Questions]]
 
 
-### Learning
+### Learnings
 - 200 - [[200 Thinking\|Thinking]]
 - 210 - [[210 Sanskritam\|Sanskritam]]
 - 220 - [[220 Spirit\|Spirit]]
