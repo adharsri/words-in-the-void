@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/topics/psychology/food-of-thought/"}
 ---
 
-[[Psychology\|Psychology]]
+[[Topics/Musings/Psychology\|Psychology]]
 
 ---
 
