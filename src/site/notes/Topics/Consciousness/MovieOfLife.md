@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/topics/consciousness/movie-of-life/"}
 ---
 
-[[Consciousness\|Consciousness]]
+[[Topics/Musings/Consciousness\|Consciousness]]
 
 ---
 
