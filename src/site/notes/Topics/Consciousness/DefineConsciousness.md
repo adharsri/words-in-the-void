@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/topics/consciousness/define-consciousness/"}
 ---
 
-[[Consciousness\|Consciousness]]
+[[Topics/Musings/Consciousness\|Consciousness]]
 
 ---
 
