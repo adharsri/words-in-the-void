@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/topics/psychology/addiction/"}
 ---
 
-[[Psychology\|Psychology]]
+[[Topics/Musings/Psychology\|Psychology]]
 
 ---
 
