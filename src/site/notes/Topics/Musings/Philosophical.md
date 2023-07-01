@@ -7,7 +7,7 @@
 ---
 
 # Philosophical
- - [[Topics/Philosophical/The ones who came before\|The ones who came before]]
+ - [[Topics/Philosophical/Inactivity\|Inactivity]]
 
 
 ---
