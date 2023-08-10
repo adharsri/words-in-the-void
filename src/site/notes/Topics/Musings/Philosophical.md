@@ -8,6 +8,7 @@
 
 # Philosophical
  - [[Topics/Philosophical/Inactivity\|Inactivity]]
+ - [[Advice is the laziest for of support\|Advice is the laziest for of support]]
 
 
 ---
