@@ -8,7 +8,8 @@
 
 # Recent Posts
 
-- Inactivity
+- 
+- 10/08/2023 - [[How to be charismatic\|How to be charismatic]]
   
 
 
