@@ -25,7 +25,7 @@
 * You don't need to know everything. What you need is the humility to accept that you don't know and the curiosity to know everything.
 * Don't be in a hurry to relax.
 * Thoughts are nothing but abbreviated understandings.
-* 
+* Stress can forge coal into diamond. It can also crush it into dust. Good thing humans are capable of understanding and managing their stress. Hopefully.
 
 
 ---
