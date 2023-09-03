@@ -18,7 +18,7 @@
 
 - Action
 	- [[Topics/Psychology/I will try or I will do\|I will try or I will do]]?
-	- [[How to be charismatic\|How to be charismatic]]
+	- [[Topics/Psychology/How to be charismatic\|How to be charismatic]]
 
 ---
 tags: #psychology  #musings
