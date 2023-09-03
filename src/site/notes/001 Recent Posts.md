@@ -8,7 +8,7 @@
 
 # Recent Posts
 
-- 
+- 03/09/2023 - [[Topics/Philosophical/What is your purpose in life\|What is your purpose in life]]?
 - 10/08/2023 - [[Topics/Psychology/How to be charismatic\|How to be charismatic]]
   
 
