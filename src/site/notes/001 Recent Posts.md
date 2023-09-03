@@ -9,7 +9,7 @@
 # Recent Posts
 
 - 
-- 10/08/2023 - [[How to be charismatic\|How to be charismatic]]
+- 10/08/2023 - [[Topics/Psychology/How to be charismatic\|How to be charismatic]]
   
 
 
