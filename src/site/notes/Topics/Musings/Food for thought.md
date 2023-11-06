@@ -26,6 +26,7 @@
 * Don't be in a hurry to relax.
 * Thoughts are nothing but abbreviated understandings.
 * Stress can forge coal into diamond. It can also crush it into dust. Good thing humans are capable of understanding and managing their stress. Hopefully.
+* Words can only convey information, they cannot convey meaning.  See also: [[Topics/Musings/Search for Meaning\|Search for Meaning]]
 
 
 ---
