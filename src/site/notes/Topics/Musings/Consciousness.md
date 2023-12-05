@@ -8,7 +8,7 @@
 
 # Consciousness
 
-- [[Topics/Consciousness/DefineConsciousness\|What constitutes consciousness?]]
+- [[Topics/Consciousness/What is Consciousness\|What constitutes consciousness?]]
 - [[Topics/Consciousness/MovieOfLife\|Movie of Life]] 
 
 ---
