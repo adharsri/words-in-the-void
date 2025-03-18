@@ -8,7 +8,7 @@
 
 # System Design Interview
 
-I am preparing for system design interview. Help me to design a <x> like service based on following framework:
+I am preparing for system design interview. Help me to design a \<x\> like service based on following framework:
 
 1. List the most basic 3-4 functional requirements that are essential for basic functioning. Provide optional ones but don't use them to create the high level design.
   
